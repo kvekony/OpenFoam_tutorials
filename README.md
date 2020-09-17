@@ -1,4 +1,4 @@
-# openFoam_tutorials
+# OpenFoam tutorials
 
 OpenFoam tutorials
 
